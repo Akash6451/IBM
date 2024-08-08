@@ -1,2 +1,2 @@
 # IBM
-Notebooks forcourses
+Notebooks for courses
